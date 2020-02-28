@@ -94,4 +94,3 @@ solution: #{SOLUTION[0..24]}...#{SOLUTION[-25..-1]}
 
 number of digits: #{NUMBER_OF_DIGITS}
 OUTPUT
-
